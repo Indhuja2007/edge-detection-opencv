@@ -131,9 +131,11 @@ plt.show()
 - Produces gradient-based edge map
   
 Load image and convert to grayscale:
+
 <img width="300" height="508" alt="image" src="https://github.com/user-attachments/assets/8d40f1d1-69c0-4f59-93d1-bf9f1b07bfc2" />
 
 Sobel Edge Detector:
+
 <img width="282" height="512" alt="image" src="https://github.com/user-attachments/assets/12d0398a-354c-4a31-9996-9edace52ea2a" />
 
  
